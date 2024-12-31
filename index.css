@@ -1,0 +1,27 @@
+body{
+    font: arial;
+}
+#todo-heading{
+    text-align: center;
+    font-size: 35px;
+    font-weight: 800;
+    margin: 10px;
+}
+#main_conte{
+    text-align: center;
+    margin: 10px;
+    margin-top: 50px;
+}
+#main_conte input,button{
+    padding: 10px 15px;
+    margin: 10px 15px;
+    border: 2px solid grey;
+    border-radius: 5%;
+    font-size: 15px;
+}
+
+#display_content{
+    text-align: center;
+    display: flex;
+ 
+}
